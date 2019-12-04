@@ -5,3 +5,4 @@ console.log(typeof qualquer)
 legal = 3
 console.log(legal)
 console.log(typeof legal)
+// evite usar nomes genéricos e siglas 
